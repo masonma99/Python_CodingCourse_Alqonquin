@@ -12,8 +12,11 @@ to show the average prices of each car type. With a bar plot showing their relat
 6. DataFrame.plot.scatter/bar
 7. DataFrame.boxplot()
 ## 2. EDA (Exploratory Data Analysis)
+### Key Points
+1. sns.boxplot to check outlier
 
 ## 3. Data Visualization
+1. 
 
 ## 4. Data Cleaning
 
