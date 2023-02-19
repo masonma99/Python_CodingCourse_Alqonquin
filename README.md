@@ -12,3 +12,9 @@ to show the average prices of each car type. With a bar plot showing their relat
 6. DataFrame.plot.scatter/bar
 7. DataFrame.boxplot()
 ## 2. EDA (Exploratory Data Analysis)
+
+## 3. Data Visualization
+
+## 4. Data Cleaning
+
+## 5. Feature Engieering
